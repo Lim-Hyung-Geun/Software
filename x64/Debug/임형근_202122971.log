@@ -1,0 +1,8 @@
+﻿  function.c
+  variable.c
+C:\Users\lhgdr\Desktop\강원대학교\2학년\2학기\소프트웨어공학\비디오관리프로그램\임형근_202122971\임형근_202122971\function.c(423,4): warning C4098: 'memberadd': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\lhgdr\Desktop\강원대학교\2학년\2학기\소프트웨어공학\비디오관리프로그램\임형근_202122971\임형근_202122971\function.c(526,7): warning C4101: 'samevideo' :참조되지 않은 지역 변수입니다.
+C:\Users\lhgdr\Desktop\강원대학교\2학년\2학기\소프트웨어공학\비디오관리프로그램\임형근_202122971\임형근_202122971\function.c(787,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'member'입니다.
+  main.c
+  코드를 생성하고 있습니다...
+  임형근_202122971.vcxproj -> C:\Users\lhgdr\Desktop\강원대학교\2학년\2학기\소프트웨어공학\비디오관리프로그램\임형근_202122971\x64\Debug\임형근_202122971.exe
